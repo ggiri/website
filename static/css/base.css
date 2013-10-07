@@ -12,14 +12,6 @@ footer {
     text-align: center;
 }
 
-blockquote {
-    border-left: 0;
-}
-
-blockquote small {
-    display: inline;
-}
-
 .website-red {
     color: #f00;
 }
